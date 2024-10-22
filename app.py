@@ -105,7 +105,7 @@ def display_sidebar():
 
 def main():
     """Main function to run the bookstore app."""
-    st.title("📚 Online Bookstore")
+    st.title("📚 Online Bookstore APP")
     st.markdown("<style>h1{color: #4B0082;} h2{color: #FF6347;}</style>", unsafe_allow_html=True)
     
     display_books()
